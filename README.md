@@ -1,1 +1,1 @@
-# i3config-file
+# i3-docfile
